@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdeb43bd-5029-4b23-8492-28d67c4d9823" name="ce28255.tw1.ru" url="">
+        <fileTransfer host="cy65403.tw1.ru" port="21" />
+      </webServer>
+    </option>
+  </component>
+</project>
